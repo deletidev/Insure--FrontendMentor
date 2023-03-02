@@ -28,9 +28,9 @@ Con este desafío he consolidado mis consocimientos de HTML, CSS y de la metodol
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [contacto@deletidev.com](contacto@deletidev.com)
+- [LinkedIn](https://www.linkedin.com/in/deletidev)
+- [Porfolio web](https://deletidev.com/)
 
 ## Instalación
 
