@@ -1,6 +1,6 @@
 # Insure--FrontendMentor
 
-![Imagen del proyecto](assets/design/desktop-design.jpg)
+![Imagen del proyecto](assets/design/insure.jpg)
 
 ## Ejemplo en vivo
 
