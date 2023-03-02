@@ -1,6 +1,6 @@
 # Insure--FrontendMentor
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](assets/design/desktop-design.jpg)
 
 ## Ejemplo en vivo
 
